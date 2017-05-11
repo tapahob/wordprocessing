@@ -1,0 +1,9 @@
+C:\Users\tapahob\Documents\Visual Studio 2017\Projects\wordapp\wordapp\bin\Debug\wordapp.exe.config
+C:\Users\tapahob\Documents\Visual Studio 2017\Projects\wordapp\wordapp\bin\Debug\wordapp.exe
+C:\Users\tapahob\Documents\Visual Studio 2017\Projects\wordapp\wordapp\bin\Debug\wordapp.pdb
+C:\Users\tapahob\Documents\Visual Studio 2017\Projects\wordapp\wordapp\obj\Debug\wordapp.csprojResolveAssemblyReference.cache
+C:\Users\tapahob\Documents\Visual Studio 2017\Projects\wordapp\wordapp\obj\Debug\wordapp.Form1.resources
+C:\Users\tapahob\Documents\Visual Studio 2017\Projects\wordapp\wordapp\obj\Debug\wordapp.Properties.Resources.resources
+C:\Users\tapahob\Documents\Visual Studio 2017\Projects\wordapp\wordapp\obj\Debug\wordapp.csproj.GenerateResource.Cache
+C:\Users\tapahob\Documents\Visual Studio 2017\Projects\wordapp\wordapp\obj\Debug\wordapp.exe
+C:\Users\tapahob\Documents\Visual Studio 2017\Projects\wordapp\wordapp\obj\Debug\wordapp.pdb
